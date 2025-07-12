@@ -1,4 +1,4 @@
-![Ecommerce](Images/ecommerce_cartoon)
+![Ecommerce](Images/ecommerce_cartoon.jpg)
 # Olist E-commerce Business Analysis
 
 Welcome! This project explores sales, customer behavior, delivery logistics, and product trends using the Olist e-commerce dataset from Brazil. Through SQL and R, I uncovered key insights that could inform business decisions, marketing strategies, and operational improvements.
