@@ -42,7 +42,7 @@ To analyze the Brazilian e-commerce landscape using Olist data, focusing on:
 
 ---
 
-## Live Portfolio
+## Live Project
 
 You can view the polished version of this project with visuals and full write-ups on my project site:  
 [**E-Commerce Analysis**](https://17tking.github.io/TavishKing.github.io/report2/index.html)
