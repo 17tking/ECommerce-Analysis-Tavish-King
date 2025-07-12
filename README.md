@@ -35,9 +35,9 @@ To analyze the Brazilian e-commerce landscape using Olist data, focusing on:
 
 | File / Folder | Description |
 |---------------|-------------|
-| `/SQL/` | Cleaning + Tables exported to R + KPI Scripts |
-| `/R/` | Cleaning Scripts + KPI scripts + Plots + R.Colors |
-| `/Tables/` | Data Dictionary + Processed Datasets (Raw tables are found on the kaggle website linked below) |
+| `SQL` | Cleaning + Tables exported to R + KPI Scripts |
+| `R` | Cleaning Scripts + KPI scripts + Plots + R.Colors |
+| `Tables` | Data Dictionary + Processed Datasets (Raw tables are found on the kaggle website linked below) |
 | `README.md` | This file – overview of the project |
 
 ---
